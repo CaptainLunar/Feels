@@ -1,4 +1,13 @@
-module Feels where
+module Feels
+( feelsGoodMan,
+  feelsBadMan,
+  iktf,
+  idktf,
+  feels,
+  ree,
+  anthony
+)
+where
 
 feelsGoodMan :: String
 feelsGoodMan = "Feels good man"
